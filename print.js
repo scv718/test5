@@ -1,8 +1,11 @@
 function print(){
 
-	console.log(" fun/c print()");
+	console.log(" func/ print()");
+
 }
+
 function print2(){
 
-	console.log(" fun/c print2()");
+	console.log(" func/ print()");
+	console.log(" func/ print2()");
 }
